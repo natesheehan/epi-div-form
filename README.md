@@ -10,6 +10,11 @@ Each category contains either a set of questions to fill out or a blank text box
 ## Conceptual
 The conceptual diversity of open science is evident in the variety of ways that scientists can approach and understand problems. This includes different theoretical frameworks, models, and approaches that can be used to better understand the world around us. Use this section to write up to 250 words generalising the contextual aspects of the project.
 
+
+## Material
+Material epistemic diversity refers to the range of materials and objects that can be brought to bear on research. This could include different types of data (e.g., quantitative vs qualitative), software platforms (e.g., R or Python), or hardware (e.g., sensors or drones). 
+
+
 ## Socio-Cultural
 The socio-cultural diversity of open science is evident in the variety of people and groups that are involved in open science activities. This includes different disciplines, institutions, and communities that contribute to the advancement of open science.
 ### System of research assessment (Locally and Nationally)
@@ -53,18 +58,6 @@ The socio-cultural diversity of open science is evident in the variety of people
 
 ## Institutional
 The institutional diversity of open science is evident in the variety of policies and regulations that govern open science activities. This includes different funding mechanisms, intellectual property rights regimes, and data sharing policies that can impact the way open science is conducted.
-
-## Material
-The diversity of open science is evident in the variety of materials that are available for use. This includes data sets, code, and other digital resources that can be accessed and used by anyone.
-
-1. What is the source of the data?
-2. Under what agreement is the data open to the public?
-3. Is the data available in a machine-readable format?
-4. What metadata is provided for the data?
-6. How often is the data updated?
-7. Are there clear guidelines on how the data can be used?
-8. Is there a process in place to ensure the quality of the data?
-9. Are there mechanisms in place to allow for feedback and input from users?
 
 ## Infrastructural
 The infrastructural diversity of open science is evident in the variety of tools and platforms that are available for use. This includes different software applications, hardware systems, and networks that can be used to better support open science practices.
