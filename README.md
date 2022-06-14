@@ -3,7 +3,9 @@
 
 
 Epistemic diversity encompasses a variety of perspectives, approaches, and traditions that can be brought to bear on open science research  ( [Leonelli 2021](http://philsci-archive.pitt.edu/19817/)). Epistemic Diversity can refer to different disciplinary approaches or methods and can also refer to different ontologies, assumptions, and perspectives that guide research. We define Epistemic Diversity as "_the
-condition or fact of being different or varied, which affects the development and/or understanding of knowledge_". The following form is designed to extract information regarding the epistemic diversity of an open science project based on five categories: Material, Conceptual, Methodological, Infrastructural, Socio-Cultural, and Institutional.
+condition or fact of being different or varied, which affects the development and/or understanding of knowledge_". The following form is designed to extract information regarding the epistemic diversity of an open science project based on five categories: `Material, Conceptual, Methodological, Infrastructural, Socio-Cultural, and Institutional`. While `Material`, `Conceptual` and `Methodological` categories often carry the most weight in philsophical import, we argue the opposite, and stress that the `Infrastructural`, `Socio-Cultural` and `Institutional` categories also bare significant import with regards to how openness is perceived and practiced. 
+
+Each category contains either a set of questions to fill out or a blank text box to write a small description.
 
 ## Conceptual
 The conceptual diversity of open science is evident in the variety of ways that scientists can approach and understand problems. This includes different theoretical frameworks, models, and approaches that can be used to better understand the world around us. Use this section to write up to 250 words generalising the contextual aspects of the project.
