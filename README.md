@@ -62,7 +62,6 @@ The diversity of open science is evident in the variety of materials that are av
 6. How often is the data updated?
 7. Are there clear guidelines on how the data can be used?
 8. Is there a process in place to ensure the quality of the data?
-
 9. Are there mechanisms in place to allow for feedback and input from users?
 
 ## Infrastructural
@@ -78,33 +77,33 @@ The infrastructural diversity of open science is evident in the variety of tools
 ### Mobilities
 
 ## Methodological
-**
-Data acquisition**
-1. How was the data acquired?
-2. Was the data acquired through a public or private source?
-3. Was the data acquired through a voluntary or involuntary process?
-**
-Data Pre-Processing**
-1. What pre-processing steps were taken on the data?
-2. What transformations were applied to the data?
-3. What normalization techniques were used?
-4. What filtering steps were applied?
-5. What was the purpose of the pre-processing?
-**
-Data Integration**
-1. What data is integrated?
-2. How is the data integrated?
+
+### Standards
+**Data acquisition**
+1. How is raw data acquired for this project?
+2. Is raw data acquired through a public or private source?
+3. Is raw data acquired through a voluntary or involuntary process?
+
+**Data Pre-Processing**
+1. What pre-processing steps are taken on the data?
+2. What transformations are applied to the data?
+3. What normalization techniques are used on the data?
+4. What filtering steps were applied to the data?
+
+**Data Integration**
+1. What data (if any) is integrated with the raw data?
+2. What steps are taken to integrate the data?
 
 **Data Analysis**
-1. What is the type of data you are working with (e.g. numerical, categorical, text)?
-2. What is the structure of your data (e.g. independent variables, dependent variables, interactions between variables)?
-3. What are the goals of your analysis (e.g. prediction, description, inference)?
-4. What type of analytical model are you using (e.g. regression, classification, clustering)?
-5. How did you choose the particular model you are using (e.g. did you compare different models, use expert knowledge, or follow best practices)?
-6. How did you train your model (e.g. did you use cross-validation, hold-out sets, or simply train on the entire dataset)?
-7. How well does your model perform (e.g. what is the accuracy, precision, recall, or other relevant metric)?
-8. What are the important features in your model (e.g. which variables are most predictive, or which clusters are most distinct)?
-9. What are the potential limitations of your analysis (e.g. did you make any assumptions that may not hold in general, or are there any data quality issues)?
+1. What is the type(s) of data used for analysis (e.g. numerical, categorical, text)?
+2. What is the structure of the data (e.g. independent variables, dependent variables, interactions between variables)?
+3. What is the goals of the analysis (e.g. prediction, description, inference)?
+4. What type of analytical model(s) are being deployed (e.g. regression, classification, clustering)?
+5. How is the model chosen (e.g. benchmarked against different models, use expert knowledge, or paper reference)?
+6. How is the model trained (e.g. did you use cross-validation, hold-out sets, or simply train on the entire dataset)?
+7. How does the model perform (e.g. what is the accuracy, precision, recall, or other relevant metric)?
+8. What are the important features in the model (e.g. which variables are most predictive, or which clusters are most distinct)?
+9. What are the potential limitations of the analysis (e.g. are there any assumptions that may not hold in general, or are there any data quality issues)?
 
 **Data Validation**
 1. What methods were used to validate the dataset?
@@ -113,11 +112,8 @@ Data Integration**
 4. How did the results of the validation compare
 5. What are the specific details of any errors that were found during validation?
 
-
-
-### Standards
 ### Protocols
 1. What protocols are used for the development of this project?
-2. How are protocols developed and maintained?
-3. How are protocols being dissiminated with others?
+2. How are protocols developed and maintained for this project?
+3. How are protocols being dissiminated with users of this project?
 5. What kind of feedback mechanism is in place for the protocols?
