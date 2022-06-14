@@ -90,12 +90,12 @@ The infrastructural diversity of open science is evident in the variety of tools
 2. What steps are taken to integrate the data?
 
 **Data Analysis**
-1. What is the type(s) of data used for analysis (e.g. numerical, categorical, text)?
-2. What is the structure of the data (e.g. independent variables, dependent variables, interactions between variables)?
-3. What is the goals of the analysis (e.g. prediction, description, inference)?
+1. What are the type(s) of data used for analysis (e.g. numerical, categorical, text)?
+2. What are the structure of the data (e.g. independent variables, dependent variables, interactions between variables)?
+3. What are the goals of the analysis (e.g. prediction, description, inference)?
 4. What type of analytical model(s) are being deployed (e.g. regression, classification, clustering)?
-5. How is the model chosen (e.g. benchmarked against different models, use expert knowledge, or paper reference)?
-6. How is the model trained (e.g. did you use cross-validation, hold-out sets, or simply train on the entire dataset)?
+5. How are the model(s) chosen (e.g. benchmarked against different models, use expert knowledge, or paper reference)?
+6. How are the model trained (e.g. did you use cross-validation, hold-out sets, or simply train on the entire dataset)?
 7. How does the model perform (e.g. what is the accuracy, precision, recall, or other relevant metric)?
 8. What are the important features in the model (e.g. which variables are most predictive, or which clusters are most distinct)?
 9. What are the potential limitations of the analysis (e.g. are there any assumptions that may not hold in general, or are there any data quality issues)?
