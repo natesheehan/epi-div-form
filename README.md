@@ -1,30 +1,6 @@
 # Open Science Epistemic Diversity Form
 
 The following form is designed to extract information regarding the epistemic diversity of an open science project based on five categories: Material, Conceptual, Methodological, Infrastructural, Socio-Cultural, and Institutional.
-
-
-## Material
-The diversity of open science is evident in the variety of materials that are available for use. This includes data sets, code, and other digital resources that can be accessed and used by anyone.
-
-1. What is the source of the data?
-2. Under what agreement is the data open to the public?
-3. Is the data available in a machine-readable format?
-4. What metadata is provided for the data?
-6. How often is the data updated?
-7. Are there clear guidelines on how the data can be used?
-8. Is there a process in place to ensure the quality of the data?
-
-9. Are there mechanisms in place to allow for feedback and input from users?
-## Conceptual
-The conceptual diversity of open science is evident in the variety of ways that scientists can approach and understand problems. This includes different theoretical frameworks, models, and approaches that can be used to better understand the world around us.
-## Methodological
-
-### Standards
-### Protocols
-1. What protocols are used for the development of this project?
-2. How are protocols developed and maintained?
-3. How are protocols being dissiminated with others?
-5. What kind of feedback mechanism is in place for the protocols?
 ## Infrastructural
 The infrastructural diversity of open science is evident in the variety of tools and platforms that are available for use. This includes different software applications, hardware systems, and networks that can be used to better support open science practices.
 ### Funding
@@ -74,3 +50,27 @@ The socio-cultural diversity of open science is evident in the variety of people
 8. What is the institutional affiliation of the researchers?
 ## Institutional
 The institutional diversity of open science is evident in the variety of policies and regulations that govern open science activities. This includes different funding mechanisms, intellectual property rights regimes, and data sharing policies that can impact the way open science is conducted.
+
+
+## Material
+The diversity of open science is evident in the variety of materials that are available for use. This includes data sets, code, and other digital resources that can be accessed and used by anyone.
+
+1. What is the source of the data?
+2. Under what agreement is the data open to the public?
+3. Is the data available in a machine-readable format?
+4. What metadata is provided for the data?
+6. How often is the data updated?
+7. Are there clear guidelines on how the data can be used?
+8. Is there a process in place to ensure the quality of the data?
+
+9. Are there mechanisms in place to allow for feedback and input from users?
+## Conceptual
+The conceptual diversity of open science is evident in the variety of ways that scientists can approach and understand problems. This includes different theoretical frameworks, models, and approaches that can be used to better understand the world around us.
+## Methodological
+
+### Standards
+### Protocols
+1. What protocols are used for the development of this project?
+2. How are protocols developed and maintained?
+3. How are protocols being dissiminated with others?
+5. What kind of feedback mechanism is in place for the protocols?
