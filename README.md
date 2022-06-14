@@ -1,4 +1,5 @@
 # Open Science Epistemic Diversity Form
+![image](https://user-images.githubusercontent.com/22789869/173471045-f6726a6b-9e96-4543-b5c5-b539e2fc8061.png)
 
 The following form is designed to extract information regarding the epistemic diversity of an open science project based on five categories: Material, Conceptual, Methodological, Infrastructural, Socio-Cultural, and Institutional.
 ## Infrastructural
